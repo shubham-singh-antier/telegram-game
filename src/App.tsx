@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="App">
       <TonConnectUIProvider manifestUrl="https://<YOUR_APP_URL>/tonconnect-manifest.json">
-        hello
+        hello from vite
       </TonConnectUIProvider>
     </div>
   )
